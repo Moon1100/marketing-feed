@@ -1,0 +1,1 @@
+passpancing: /home/passpancing/htdocs/passpancing.my
