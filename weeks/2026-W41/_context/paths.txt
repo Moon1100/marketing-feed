@@ -1,1 +1,3 @@
 passpancing: /home/passpancing/htdocs/passpancing.my
+locumpay: /home/locumpay/htdocs/locumpay.my
+nakrent: /home/nakrent/htdocs/nakrent.my

@@ -1,0 +1,39 @@
+{
+  "week": "2026-W41",
+  "projects": {
+    "passpancing": {
+      "posts": [
+        {
+          "day": "2026-10-06",
+          "type": "angler_tip",
+          "topic": "Umpan patin: bau, kedalaman, dan sabar tunggu strike",
+          "tiktok": "Umpan patin still xnak makan? Try trick ni 🎣 #pancing #kakipancing #kolampancing #fishingmalaysia #umpanpatin",
+          "images": ["passpancing-1-1.png", "passpancing-1-2.png", "passpancing-1-3.png", "passpancing-1-4.png", "passpancing-1-5.png", "passpancing-1-6.png"]
+        },
+        {
+          "day": "2026-10-08",
+          "type": "demo",
+          "topic": "Demo: bayar cash bila beli/top-up pas kolam",
+          "tiktok": "Kolam korang dah boleh bayar cash? 💵 Tak payah upload resit, marshall approve terus #pancing #kolampancing #passpancing #kakipancing",
+          "images": ["passpancing-2-1.png", "passpancing-2-2.png", "passpancing-2-3.png", "passpancing-2-4.png", "passpancing-2-5.png"]
+        },
+        {
+          "day": "2026-10-10",
+          "type": "angler_tip",
+          "topic": "Etika bila pancing kat kolam ramai orang",
+          "tiktok": "5 etika wajib bila pancing kat kolam ramai org, jangan buat pantang! #pancing #kakipancing #kolampancing #etikapancing #fishingmalaysia",
+          "images": ["passpancing-3-1.png", "passpancing-3-2.png", "passpancing-3-3.png", "passpancing-3-4.png", "passpancing-3-5.png", "passpancing-3-6.png"]
+        }
+      ],
+      "group_post": "Korang yang selalu pancing kat kolam guna passpancing — ada update best minggu ni! Sekarang boleh terus bayar cash kat marshall bila beli pas masuk atau nak tambah masa, tak payah upload resit dan tunggu approve lama-lama. Marshall pun boleh lulus pantas sebab skrin dia auto refresh live, tak payah reload manual. Lagi senang nak masuk kolam dan sambung mancing tanpa ribet nak isi borang online banking. Tuan kolam yang nak permudahkan proses masuk & bayaran peserta pertandingan, boleh check out passpancing.my. Selamat memancing semua!"
+    },
+    "locumpay": {
+      "topic": "Tip: confirm rate & jam kerja bertulis sebelum shift locum",
+      "group_post": "Doktor yang buat locum, satu tip simple tapi selalu orang skip — confirm rate sejam, jumlah jam, dan siapa bayar (klinik ke agent) secara bertulis SEBELUM start shift. WhatsApp pun cukup, yang penting ada rekod hitam putih bila nak claim kalau ada dispute lepas tu. Kalau nak lagi senang track semua locum shift dan invois dalam satu tempat tanpa buat manual dalam Excel, boleh try locumpay.my — auto generate invois untuk hantar kat klinik dan pantau status bayaran diorang. Jimat masa, kurang risiko lupa nak claim."
+    },
+    "nakrent": {
+      "topic": "Urus semua listing bilik/rumah sewa dalam satu dashboard",
+      "group_post": "Untuk landlord atau tuan rumah yang sewa bilik/unit, kalau listing korang still simpan dalam Excel atau screenshot je, memang leceh nak update bila ada bilik kosong ke dah disewa. Kat nakrent, korang boleh urus semua listing rumah/bilik dalam satu dashboard — letak gambar, jenis bilik, kadar sewa, status kosong ke occupied, semua dalam satu tempat yang senang nak update on-the-go. Calon penyewa pun senang nak refer status terkini sebelum tanya. Kalau rasa nak cuba permudahkan urus rumah sewa korang, boleh check nakrent.my."
+    }
+  }
+}
