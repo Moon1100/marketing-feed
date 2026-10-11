@@ -1,0 +1,39 @@
+{
+  "week": "2026-W42",
+  "projects": {
+    "passpancing": {
+      "posts": [
+        {
+          "day": "2026-10-13",
+          "type": "angler_tip",
+          "topic": "Etika asas kat kolam pancing",
+          "tiktok": "Etika kat kolam pancing yang ramai lupa 🎣 jangan rosakkan vibe org lain! #pancing #kakipancing #kolampancing #etikapancing #fishingmalaysia",
+          "images": ["passpancing-1-1.png", "passpancing-1-2.png", "passpancing-1-3.png", "passpancing-1-4.png", "passpancing-1-5.png", "passpancing-1-6.png"]
+        },
+        {
+          "day": "2026-10-15",
+          "type": "demo",
+          "topic": "Demo: dua cara terima bayaran & dashboard jualan",
+          "tiktok": "Tuan kolam, nak permudahkan bayaran pengunjung? Ni cara dia 💡 #kolampancing #tuankolam #passpancing #pertandinganpancing",
+          "images": ["passpancing-2-1.png", "passpancing-2-2.png", "passpancing-2-3.png", "passpancing-2-4.png", "passpancing-2-5.png"]
+        },
+        {
+          "day": "2026-10-17",
+          "type": "angler_tip",
+          "topic": "Umpan & teknik untuk ikan keli",
+          "tiktok": "Keli asyik tak makan umpan? Try trick ni 🎣 #pancing #kakipancing #kolampancing #ikankeli #fishingmalaysia",
+          "images": ["passpancing-3-1.png", "passpancing-3-2.png", "passpancing-3-3.png", "passpancing-3-4.png", "passpancing-3-5.png", "passpancing-3-6.png"]
+        }
+      ],
+      "group_post": "Tuan kolam, korang yang masih kira bayaran pengunjung secara manual mesti rasa leceh kan — resit transfer kena check satu-satu, lepas tu kira cash lagi. Dalam passpancing, pengunjung boleh upload resit transfer bank terus dalam app dan marshall tinggal tekan lulus, atau kalau nak lagi laju boleh on-kan FPX untuk bayaran online terus masuk akaun tanpa perlu verify manual. Semua takings harian & pass yang active pun boleh tengok dalam satu dashboard je, senang nak pantau tanpa kena buka buku rekod lama. Kalau rasa urusan bayaran & pass kolam korang selama ni makan masa, boleh try passpancing.my. Selamat memancing semua!"
+    },
+    "locumpay": {
+      "topic": "Update: booking link, locum offer terus dari klinik & verification akses",
+      "group_post": "Doktor yang buat locum, ada update baru kat LocumPay yang boleh bagi korang lebih banyak shift. Sekarang klinik boleh claim directory entry diorang dan terus hantar locum offer kat page booking awam korang — bukan setakat tunggu korang apply je. Klinik pun boleh 'star' doktor yang pernah locum dengan diorang untuk senang revisit page booking tu bila perlukan locum lagi. Dari segi schedule, offer terus macam ni akan muncul sama dengan request yang korang post sendiri, jadi semua dalam satu tempat — takyah check WhatsApp & app lain-lain. Klinik yang ada lebih dari satu orang urus akaun pun sekarang boleh invite teammate, tapi akses invoice & schedule kena verify dulu oleh teammate sedia ada atau admin — so data tetap selamat. Boleh try kat locumpay.my."
+    },
+    "nakrent": {
+      "topic": "Tip: asingkan rekod deposit penyewa daripada sewa bulanan",
+      "group_post": "Untuk landlord atau tuan rumah yang sewakan bilik/unit, satu tip yang selalu orang pandang remeh — asingkan rekod deposit penyewa daripada rekod sewa bulanan. Bila dua-dua campur dalam satu jumlah je, lama-lama senang confuse sama ada baki tu sewa belum settle ke deposit yang kena refund bila penyewa keluar nanti. Lebih-lebih lagi kalau ada lebih satu penyewa, mesti leceh nak ingat balik siapa punya berapa. Kalau korang still track guna Excel atau buku nota dan rasa pening nak kira balik time penyewa nak keluar, boleh try urus rekod sewa & deposit setiap penyewa secara berasingan dalam satu dashboard kat nakrent.my."
+    }
+  }
+}
