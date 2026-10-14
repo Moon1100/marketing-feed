@@ -49,8 +49,46 @@
       "group_post": "Tuan kolam, korang yang masih kira bayaran pengunjung secara manual mesti rasa leceh kan — resit transfer kena check satu-satu, lepas tu kira cash lagi. Dalam passpancing, pengunjung boleh upload resit transfer bank terus dalam app dan marshall tinggal tekan lulus, atau kalau nak lagi laju boleh on-kan FPX untuk bayaran online terus masuk akaun tanpa perlu verify manual. Semua takings harian & pass yang active pun boleh tengok dalam satu dashboard je, senang nak pantau tanpa kena buka buku rekod lama. Kalau rasa urusan bayaran & pass kolam korang selama ni makan masa, boleh try passpancing.my. Selamat memancing semua!"
     },
     "locumpay": {
-      "topic": "Update: booking link, locum offer terus dari klinik & verification akses",
-      "group_post": "Doktor yang buat locum, ada update baru kat LocumPay yang boleh bagi korang lebih banyak shift. Sekarang klinik boleh claim directory entry diorang dan terus hantar locum offer kat page booking awam korang — bukan setakat tunggu korang apply je. Klinik pun boleh 'star' doktor yang pernah locum dengan diorang untuk senang revisit page booking tu bila perlukan locum lagi. Dari segi schedule, offer terus macam ni akan muncul sama dengan request yang korang post sendiri, jadi semua dalam satu tempat — takyah check WhatsApp & app lain-lain. Klinik yang ada lebih dari satu orang urus akaun pun sekarang boleh invite teammate, tapi akses invoice & schedule kena verify dulu oleh teammate sedia ada atau admin — so data tetap selamat. Boleh try kat locumpay.my."
+      "posts": [
+        {
+          "day": "2026-10-15",
+          "time": "20:30",
+          "type": "pain_point",
+          "topic": "Locum life checklist: multi-clinic chaos",
+          "threads": "Hidup doktor locum 🩺\n✅ 3 klinik minggu ni\n✅ 4 group WhatsApp lain-lain\n❌ ingat klinik mana yang belum bayar sejak Ogos 😅\n\nDengan LocumPay, semua shift, invois & bayaran ada dalam satu kalendar. Duit masuk je, terus dapat notifikasi.\n\nKhas untuk doktor locum Malaysia. Daftar free 👉 locumpay.my/register",
+          "images": [
+            "https://locumpay.my/images/dashboard-mockup.png"
+          ],
+          "metricool_id": 395453230
+        },
+        {
+          "day": "2026-10-16",
+          "time": "12:30",
+          "type": "feature",
+          "topic": "Auto-generated invoices + payment links",
+          "threads": "Jam × rate = invois. Siap. 🧾\n\nTakyah dah taip invois pukul 1 pagi lepas oncall. LocumPay auto buat invois terus dari kalendar korang, siap dengan link bayaran supaya klinik boleh bayar online sekali tekan.\n\nKorang fokus rawat pesakit, admin biar app yang settle 😌\nlocumpay.my/register",
+          "images": [],
+          "metricool_id": 395453239
+        },
+        {
+          "day": "2026-10-17",
+          "time": "21:00",
+          "type": "engagement",
+          "topic": "Longest a clinic took to pay you?",
+          "threads": "Soalan jujur untuk doktor locum 🩺\n\nPaling lama klinik ambil masa nak bayar korang berapa lama?\n\nKami dengar ada sampai 4 bulan 😅 Share cerita korang kat bawah 👇",
+          "images": [],
+          "metricool_id": 395453251
+        },
+        {
+          "day": "2026-10-18",
+          "time": "20:30",
+          "type": "clinic",
+          "topic": "For clinics: fill shifts fast, pay online",
+          "threads": "Tuan klinik & manager, ni untuk korang 🏥\n\nLocum cancel last minit? Post je shift kosong kat LocumPay. Locum yang biasa kerja dengan korang terus dapat alert, reply kat WhatsApp, korang hire sekali tekan je.\n\n✅ Kalendar shift bersama, takde double-booking\n✅ Bayar invois locum online, takyah transfer manual\n✅ Semua resit auto simpan\n\nlocumpay.my",
+          "images": [],
+          "metricool_id": 395453256
+        }
+      ]
     },
     "nakrent": {
       "topic": "Tip: asingkan rekod deposit penyewa daripada sewa bulanan",
