@@ -1,0 +1,63 @@
+{
+  "week": "2026-W43",
+  "projects": {
+    "passpancing": {
+      "posts": [
+        {
+          "day": "2026-10-20",
+          "type": "angler_tip",
+          "topic": "Umpan & teknik untuk ikan patin",
+          "tiktok": "Patin asyik main-main umpan tapi tak telan terus? 😅 Try teknik ni weekend ni geng! Korang guna umpan apa bila kejar patin? 🎣 #pancing #kakipancing #kolampancing #ikanpatin #fishingmalaysia",
+          "images": ["passpancing-1-1.png", "passpancing-1-2.png", "passpancing-1-3.png", "passpancing-1-4.png", "passpancing-1-5.png", "passpancing-1-6.png"]
+        },
+        {
+          "day": "2026-10-24",
+          "type": "owner_tip",
+          "topic": "Guna cap bilangan joran & tutup pendaftaran awal",
+          "tiktok": "Kita tuan kolam ni, paling stress bila pendaftaran pertandingan jadi kucar-kacir last minit 😩 Try set cap joran & tarikh tutup awal — confirm lebih smooth! #kolampancing #tuankolam #passpancing #pertandinganpancing",
+          "images": ["passpancing-2-1.png", "passpancing-2-2.png", "passpancing-2-3.png", "passpancing-2-4.png", "passpancing-2-5.png", "passpancing-2-6.png"]
+        }
+      ]
+    },
+    "locumpay": {
+      "posts": [],
+      "raw_skipped": {
+        "1559757223964708948": "day=none this week (Threads posts already hand-scheduled through 2026-11-05) — save this 'Financial Command Center' deck (expected income / paid / awaiting cover slide) for a future week's post.",
+        "1559757467213238342": "day=none this week (Threads posts already hand-scheduled through 2026-11-05) — save this 'Financial Command Center' deck (chaos-vs-digital, signup, log shift + rate calc, calendar, invoice flow) for a future week's post."
+      }
+    },
+    "nakrent": {
+      "posts": [
+        {
+          "day": "2026-10-21",
+          "type": "owner_tip",
+          "persona": "tuan_rumah",
+          "topic": "Checklist bergambar masa serah kunci (move-in)",
+          "facebook": "Jujur, part yang selalu aku skip dulu sebagai tuan rumah? Checklist masa serah kunci 😅 Lepas sekali ada tenant keluar dan kitorang gaduh pasal 'kerosakan' yang sebenarnya dah ada dari awal, aku terus ubah cara.\n\nSekarang before serah kunci, aku mesti:\n📸 Snap gambar kondisi bilik — dinding, lantai, perabot\n🔢 Catat bacaan meter elektrik & air hari tu\n📝 List apa-apa kerosakan sedia ada, dan minta tenant tengok sekali\n\n10 minit je, tapi jimat banyak drama bila dia nak keluar nanti. Korang buat checklist macam ni juga tak bila serah kunci? 👇\n\n#rumahsewa #tuanrumah #landlordmalaysia #nakrent",
+          "images": ["nakrent-1-1.png", "nakrent-1-2.png", "nakrent-1-3.png", "nakrent-1-4.png", "nakrent-1-5.png"]
+        },
+        {
+          "day": "2026-10-23",
+          "type": "engagement",
+          "persona": "ejen_sublet",
+          "topic": "Poll: cara paling kerap kutip sewa dari tenant",
+          "facebook": "Bila urus lebih dari satu bilik/unit, benda yang selalu buat aku pening bukan cari tenant — tapi cara nak kutip sewa setiap bulan 😮‍💨\n\nNak tanya korang yang sama-sama urus sewa ni, macam mana korang paling kerap collect:\nA) Transfer terus ke akaun bank\nB) Cash in hand bila jumpa tenant\nC) Payment gateway / online banking link\nD) Guna ejen atau platform rental\n\nVote A, B, C atau D kat komen, share sekali sebab kenapa korang pilih cara tu 👇\n\n#rumahsewa #tuanrumah #landlordmalaysia #nakrent",
+          "images": ["nakrent-2-1.png", "nakrent-2-2.png", "nakrent-2-3.png", "nakrent-2-4.png"]
+        }
+      ],
+      "raw_skipped": {
+        "1559759947523428472": "property-manager / sublet-operator feature deck (11 slides) — this week's categories are fixed as owner_tip + engagement, no feature slot; save for a future feature-category week.",
+        "1559759974819962990": "same property-manager feature deck — save for a future feature-category week.",
+        "1559760000220397669": "same property-manager feature deck — save for a future feature-category week.",
+        "1559760031618957385": "same property-manager feature deck — save for a future feature-category week.",
+        "1559760107091398687": "same property-manager feature deck — save for a future feature-category week.",
+        "1559760143930105988": "same property-manager feature deck — save for a future feature-category week.",
+        "1559760178281185430": "same property-manager feature deck — save for a future feature-category week.",
+        "1559760209650515978": "same property-manager feature deck — save for a future feature-category week.",
+        "1559760237970456617": "same property-manager feature deck — save for a future feature-category week.",
+        "1559760269079609385": "same property-manager feature deck — save for a future feature-category week.",
+        "1559760312318828676": "same property-manager feature deck — save for a future feature-category week."
+      }
+    }
+  }
+}
