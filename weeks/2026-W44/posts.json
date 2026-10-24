@@ -1,0 +1,33 @@
+{
+  "week": "2026-W44",
+  "projects": {
+    "passpancing": {
+      "posts": [
+        {"day": "2026-10-27", "type": "engagement", "topic": "Ikan paling berat pernah korang naikkan?",
+         "tiktok": "Geng, aku nak tahu — ikan paling berat korang pernah naikkan apa, berapa kilo, guna umpan apa? 🎣 Share kat komen! #pancing #kakipancing #kolampancing #fishingmalaysia",
+         "images": ["passpancing-1-1.png", "passpancing-1-2.png", "passpancing-1-3.png", "passpancing-1-4.png", "passpancing-1-5.png", "passpancing-1-6.png"]},
+        {"day": "2026-10-31", "type": "demo", "topic": "Demo: QR pintu masuk kolam — scan, daftar, terus beli pass",
+         "tiktok": "Kita tuan kolam ni, paling leceh bila pengunjung baru tanya \"nak daftar kat mana bang?\" 😅 Tampal je satu QR kat pintu masuk 👇 #kolampancing #tuankolam #passpancing #pancing",
+         "images": ["passpancing-2-1.png", "passpancing-2-2.png", "passpancing-2-3.png", "passpancing-2-4.png", "passpancing-2-5.png", "passpancing-2-6.png"]}
+      ]
+    },
+    "locumpay": {
+      "posts": [],
+      "raw_skipped": {
+        "1559757223964708948": "day=none this week (Threads posts already hand-scheduled through 2026-11-05) — keep this 'Financial Command Center' cover slide (expected income / paid / awaiting) for the first open week.",
+        "1559757467213238342": "day=none this week (Threads posts already hand-scheduled through 2026-11-05) — keep this 'Financial Command Center' deck (signup, log shift + rate calc, calendar, invoice flow) for the first open week."
+      }
+    },
+    "nakrent": {
+      "posts": [
+        {"day": "2026-10-28", "type": "feature", "persona": "ejen_sublet", "topic": "Akaun property manager: urus rumah tuan rumah tanpa dia perlu daftar",
+         "facebook": "Bila urus rumah orang lain, yang paling penat bukan cari tenant — tapi jadi orang tengah untuk semua benda 😮‍💨 Tenant WhatsApp pasal paip bocor, tuan rumah tanya sewa dah masuk ke belum, kontraktor tanya alamat lagi sekali…\n\nSebab tu NakRent buat akaun khas untuk property manager & ejen sublet:\n🏠 Masukkan rumah guna details tuan rumah — dia takyah daftar langsung\n💳 Kutip sewa online guna akaun ToyyibPay korang sendiri\n🔧 Tiket rosak terus ke kontraktor, dia update status sendiri\n📊 Kutipan sebulan dikira jadi satu payout summary\n👥 Invite co-manager atau staff maintenance-only\n\nKorang urus berapa unit sekarang? Tengok macam mana dia jalan 👉 https://nakrent.my/for-property-managers\n\n#rumahsewa #landlordmalaysia #sublet #nakrent",
+         "images": ["nakrent-1-1.png", "nakrent-1-2.png", "nakrent-1-3.png", "nakrent-1-4.png", "nakrent-1-5.png", "nakrent-1-6.png"],
+         "raw": ["1559759947523428472", "1559759974819962990", "1559760000220397669", "1559760031618957385", "1559760107091398687", "1559760143930105988", "1559760178281185430", "1559760209650515978", "1559760237970456617", "1559760269079609385", "1559760312318828676"]},
+        {"day": "2026-10-30", "type": "design_tip", "persona": "tenant", "topic": "4 benda kecil yang tenant check masa viewing bilik",
+         "facebook": "Sebagai tenant, benda pertama aku check bila viewing bilik? Bukan katil. Soket plug 😂\n\nBilik nampak cantik dalam gambar, tapi bila masuk — soket jauh dari katil, last-last caj phone atas lantai. Benda kecil macam ni tenant memang perasan:\n🔌 Soket dekat katil & meja\n💡 Lampu siling terang + lampu meja\n🗄️ Storage cukup — almari, rak dinding, bawah katil\n🌙 Langsir tebal & kipas yang tak berbunyi\n\nTuan rumah, takyah renovate besar pun. Settle 4 benda ni, bilik terus nampak ready masa viewing.\n\nKorang yang menyewa, apa benda pertama korang check? 👇\n\n#rumahsewa #tuanrumah #hiasrumah #nakrent",
+         "images": ["nakrent-2-1.png", "nakrent-2-2.png", "nakrent-2-3.png", "nakrent-2-4.png", "nakrent-2-5.png", "nakrent-2-6.png"]}
+      ]
+    }
+  }
+}
