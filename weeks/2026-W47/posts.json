@@ -1,0 +1,54 @@
+{
+  "week": "2026-W47",
+  "projects": {
+    "passpancing": {
+      "posts": [
+        {
+          "day": "2026-11-17",
+          "type": "angler_tip",
+          "topic": "Cara baca pelampung sebelum sentap",
+          "tiktok": "Siapa pernah sentap awal sangat, umpan hilang ikan pun lari? 😅 Ni cara aku baca pelampung. Korang sentap laju ke sabar? 🎣 #pancing #kakipancing #kolampancing #fishingmalaysia",
+          "images": ["passpancing-1-1.jpg", "passpancing-1-2.jpg", "passpancing-1-3.jpg", "passpancing-1-4.jpg", "passpancing-1-5.jpg", "passpancing-1-6.jpg", "passpancing-1-7.jpg"]
+        },
+        {
+          "day": "2026-11-21",
+          "type": "owner_tip",
+          "topic": "Peraturan & briefing sebelum pertandingan untuk elak pertikaian",
+          "tiktok": "Kita tuan kolam ni, paling serabut bila gaduh pasal peraturan masa nak timbang kan? Settle awal sebelum hon 👇 #kolampancing #tuankolam #pertandinganpancing #passpancing",
+          "images": ["passpancing-2-1.jpg", "passpancing-2-2.jpg", "passpancing-2-3.jpg", "passpancing-2-4.jpg", "passpancing-2-5.jpg", "passpancing-2-6.jpg", "passpancing-2-7.jpg"]
+        }
+      ]
+    },
+    "locumpay": {
+      "posts": [
+        {
+          "day": "2026-11-19",
+          "type": "feature",
+          "topic": "Peringatan 'Dah dibayar ke belum?' untuk invois locum + follow-up WhatsApp",
+          "threads": "Masa buat locum dulu, part paling awkward bukan kerja — tapi nak tanya klinik \"dah bayar ke belum?\" 😅 Lama-lama lupa terus invois mana belum settle.\n\nSekarang LocumPay yang tanya korang: lepas shift habis, lepas tu sehari, seminggu, sebulan kalau invois masih unpaid. Satu tap je — mark paid (resit auto), ingatkan nanti, atau hantar follow-up guna WhatsApp/email.\n\nKorang tunggu berapa lama baru berani follow up? Daftar free: https://locumpay.my/register",
+          "images": []
+        }
+      ]
+    },
+    "nakrent": {
+      "posts": [
+        {
+          "day": "2026-11-18",
+          "type": "owner_tip",
+          "persona": "tuan_rumah",
+          "topic": "Checklist move-out: settle deposit tanpa drama",
+          "facebook": "Kita tuan rumah ni, bila tenant cakap \"bulan depan saya keluar\", terus terfikir — deposit nanti gaduh tak? 😅\n\nNi checklist move-out yang aku rasa paling membantu:\n📅 Sahkan tarikh keluar & serah kunci, tulis dalam WhatsApp/email supaya ada rekod\n🚶 Inspect rumah sama-sama dengan tenant, bandingkan dengan gambar masa masuk\n🔍 Bezakan haus biasa (cat pudar, langsir lusuh) dengan kerosakan sebenar\n🧾 Kalau ada potongan deposit, bagi senarai item + kos + resit atau sebut harga\n\nJelas dari awal, takde drama hujung-hujung. Korang ada step lain masa tenant keluar? 👇\n\n#rumahsewa #tuanrumah #landlordmalaysia #nakrent",
+          "images": ["nakrent-1-1.png", "nakrent-1-2.png", "nakrent-1-3.png", "nakrent-1-4.png", "nakrent-1-5.png", "nakrent-1-6.png"]
+        },
+        {
+          "day": "2026-11-20",
+          "type": "engagement",
+          "persona": "tenant",
+          "topic": "Poll: deposit patut dipulangkan dalam berapa lama lepas keluar",
+          "facebook": "Sebagai tenant, part paling berdebar masa keluar rumah sewa? Bukan angkat barang — tunggu deposit masuk balik 😂\n\nTapi aku faham jugak, tuan rumah perlu masa nak check rumah, bil akhir semua. Jadi aku nak tahu pendapat korang, dua-dua belah:\n\nLepas tenant serah kunci, deposit patut pulang bila?\nA) Hari serah kunci tu jugak\nB) Dalam seminggu\nC) Dalam dua minggu\nD) Ikut tarikh dalam agreement\n\nTuan rumah dengan tenant, jawab kat komen — kongsi sekali kenapa korang pilih tu 👇\n\n#rumahsewa #tuanrumah #landlordmalaysia #nakrent",
+          "images": ["nakrent-2-1.png", "nakrent-2-2.png", "nakrent-2-3.png"]
+        }
+      ]
+    }
+  }
+}
